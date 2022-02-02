@@ -3,7 +3,9 @@
 This is Project to Detect Disease in Tomato Plant.
 
 We will be using VGG16 to Predict the disease.
+
 Kaggle Notebook link: https://www.kaggle.com/noulam/tomato
+
 dataset link: https://www.kaggle.com/noulam/tomato
 
 
